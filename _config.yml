@@ -1,0 +1,28 @@
+title: "Chirag's Blog"
+description: "My blog website"
+url: "https://blog.chiragmadaan.com"  # the full URL of your blog
+
+# Use the Chirpy theme via GitHub’s remote_theme feature
+remote_theme: cotes2020/jekyll-theme-chirpy
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+comments:
+  provider: giscus
+
+# Giscus comments configuration
+giscus:
+  enable: true
+  repo: "appleswiggy/blogs-chiragmadaan-comments"         # Replace with your repo for Giscus discussions
+  repo_id: "R_kgDOONfUvA"          # Get this from giscus.app
+  category: "Comments"                          # Use or create a discussion category
+  category_id: "DIC_kwDOONfUvM4CoYz3"  # Get this from giscus.app
+  mapping: "pathname"
+  strict: "0"
+  reactions_enabled: "1"
+  emit_metadata: "0"
+  input_position: "top"
+  theme: "preferred_color_scheme"
+  lang: "en"
