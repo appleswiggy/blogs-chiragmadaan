@@ -87,7 +87,7 @@ I'm currently building the Shipment Tracking platform at **PayPal** and have pre
 Feel free to reach out if you're working on something interesting or just want to exchange ideas about where technology is heading. Check out my contact details on the bottom left.
 
 ## References
-[^cypherock]: [Cypherock](http://cypherock.com/)
+[^cypherock]: [Cypherock](https://cypherock.com/)
 [^hidden-project]: [Hidden - The hardware HID module](https://github.com/appleswiggy/hidden).
 [^mcp-auth]: [MCP Authorization](https://modelcontextprotocol.io/specification/draft/basic/authorization)
 [^tss-research-paper]: [Research Paper on TSS using AHE](https://eprint.iacr.org/2024/382).
