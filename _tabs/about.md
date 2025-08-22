@@ -17,69 +17,69 @@ I'm currently building the Shipment Tracking platform at **PayPal** and have pre
 
 * I call myself a generalist because I do [anything and everything](#some-of-my-major-work) wherever problems are most interesting.
 * I learn like I'm running out of time, and I love every second of it.
-* I approach problems from first principles and believe that every problem has at least one workable solution, which I'm very good at finding.
+* I approach problems from **first principles** and believe that every problem has at least one workable solution, which I'm very good at finding.
 * Beyond building, **I love teaching**. I've delivered many sessions on technical topics at PayPal and my university with audiences of **150+ people**.
-* I very often think about consciousness, technology, its impact and our future, and I'm excited to share some of my thoughts through this blog.
+* I often think about consciousness, technology, its impact and our future, and I'm excited to share some of my thoughts through this blog.
 
 ## Some of My **Major** Work
 
 ### 🤖 AI & Automation
 
-#### 1. API Migration Agentic Workflow (2025)
-   - <u>A semi-automated AI workflow</u> to migrate PayPal's shipping aggregator's legacy API connection to the new versioned API.<br>
-   - Requires <u>minimal human in the loop</u> • Migrated code <u>now in production</u>.
+#### 1. B-Hunter: Penetration Testing AI Agent (2023)
+   - **ReAct based LLM-powered agent** to automatically detect web security vulnerabilities.<br>
+   - The agent acts as a bug bounty hunter and **uses penetration testing tools** to plan, reconnaissance, exploit and generate a testing report automatically.
+   - Won **1st place** among **100+ participants** in PayPal's internal hackathon.
 
-#### 2. B-Hunter: Penetration Testing AI Agent (2023)
-   - <u>ReAct based LLM-powered agent</u> to automatically detect web security vulnerabilities.<br>
-   - The agent acts as a bug bounty hunter and <u>uses penetration testing tools</u> to plan, reconnaissance, exploit and generate a testing report automatically.
-   - Won <u>1st place</u> among <u>100+ participants</u> in PayPal's internal hackathon.
-
-#### 3. Hidden: Hardware HID Module for voice accessibility[^hidden-project] (2023)
-   - Allows control over any computer through voice <u>without installing any software.</u><br>
+#### 2. Hidden: Hardware HID Module for voice accessibility[^hidden-project] (2023)
+   - Allows control over any computer through voice **without installing any software**.<br>
    - Uses LLMs to parse voice into keyboard and mouse instructions and injects them through the HID module.<br>
-   - <u>Won VIT's hardware Make-a-thon</u> • Recognized by Danfoss.
+   - **Won VIT's hardware Make-a-thon** • Recognized by Danfoss.
+
+#### 3. API Migration Agentic Workflow (2025)
+   - A **semi-automated AI workflow** to migrate PayPal's shipping aggregator's legacy API connection to the new versioned API.<br>
+   - Requires **minimal human in the loop** • Migrated code **now in production**.
 
 #### 4. Shipping Carrier Recommendation Solution (2023)
    - Suggests shipping carriers to merchants for more reliable delivery based on various parameters.
-   - <u>Won the 2nd place</u> in PayPal's Curioso hackathon.
+   - **Won the 2nd place** in PayPal's Curioso hackathon.
 
 ### 🔐 Security & Cryptography
 
 #### 1. OAuth Library for MCP Servers (2025)
-   - Library for MCP Servers to allow users to <u>login through PayPal</u> and access PayPal’s services.<br>
-   - The flow implemented is <u>in compliance with OAuth2.1 flow</u> as described in the MCP specification.[^mcp-auth]<br>
-   - Recognized by <u>PayPal's CTO</u> in his email newsletter.
+   - Library for MCP Servers to allow users to **login through PayPal** and access PayPal’s services.<br>
+   - The flow implemented is **in compliance with OAuth2.1 flow** as described in the MCP specification.[^mcp-auth]<br>
+   - Recognized by **PayPal's CTO** in his email newsletter.
 
 #### 2. Cryptography Research on TSS using AHE[^tss-research-paper] (2024)
    - Published a paper on building decentralised access control solution for group digital asset management.<br>
-   - Developed a <u>novel multi-group architecture</u> for secure threshold signature generation.
-   - Uses an optimized three-round threshold signature scheme, <u>additive homomorphic encryption</u>, and zero-knowledge proofs.<br>
+   - Developed a **novel multi-group architecture** for secure threshold signature generation.
+   - Uses an optimized three-round threshold signature scheme, **additive homomorphic encryption**, and zero-knowledge proofs.<br>
 
 #### 3. Remote Wallet Provisioning Protocol (2024)
-   - Created and implemented a cryptographic <u>protocol to securely provision</u> new Cypherock hardware wallets with keys remotely from USA to Indian packaging site.<br>
-   - Secured <u>10,000+</u> Cypherock X1 devices till now with <u>zero security incidents</u> to date.
+   - Created and implemented a cryptographic **protocol to securely provision** new Cypherock hardware wallets with keys remotely from USA to Indian packaging site.<br>
+   - Secured **10,000+** Cypherock X1 devices till now with **zero security incidents** to date.
 
 #### 4. MPC Threshold Signature Scheme on Cypherock X1 (2024)
-   - Low-level C firmware implementing <u>MPC-based Threshold Signature Scheme</u> on embedded hardware.<br>
-   - Powers secure <u>multi-party computation</u> on resource-constrained devices to allow groups to own digital assets together.
+   - Low-level C firmware implementing **MPC-based Threshold Signature Scheme** on embedded hardware.<br>
+   - Powers secure **multi-party computation** on resource-constrained devices to allow groups to own digital assets together.
 
 #### 5. Anonymous Online Voting System (2021)
-   - Secure voting system using custom implementation of <u>Linkable Spontaneous Anonymous Group Ring Signatures</u>.<br>
+   - Secure voting system using **custom implementation** of Linkable Spontaneous Anonymous Group **Ring Signatures**.<br>
    - Ensures voter privacy while preventing double-voting.
 
 ### 🛠️ Other Projects
 
 #### 1. Atomic Events Android SDK (2024)
-   - Led the project and <u>delivered it end to end</u> from designing the HLD to planning the architecture to the implementation to the final release.
-   - Allows android teams to have <u>observability</u> across customer interactions on the PayPal app.
+   - Led the project and **delivered it end to end** from designing the HLD to planning the architecture to the implementation to the final release.
+   - Allows android teams to have **observability** across customer interactions on the PayPal app.
    - Integrates with all internal observability platforms.
 
 #### 2. PayPal Confluence Redirector (2024)
-   - Browser extension that <u>automatically redirects</u> old broken confluence links before PayPal's migration, to new ones very quickly.
-   - Currently <u>used by 300+ people</u>.
+   - Browser extension that **automatically redirects** old broken confluence links before PayPal's migration, to new ones very quickly.
+   - Currently **used by 300+ people**.
 
 #### 3. RTT Migration (2023)
-   - Migrated PayPal's <u>Real Time Shipment Tracking</u> functionality to a new more <u>optimised and maintainable</u> Java backend architecture.
+   - Migrated PayPal's **Real Time Shipment Tracking** functionality to a new more **optimised and maintainable** Java backend architecture.
 
 
 ## Let's Connect
